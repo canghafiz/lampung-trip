@@ -1,2 +1,2 @@
-export const apiEndPoint = 'https://lampungtrip.lonemanga.ink'
-export const apiKey = "Test123"
+export const apiEndPoint = <Your endpoint>
+export const apiKey = <Authorization key for api>
